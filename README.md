@@ -1,8 +1,4 @@
-- 👋 olá,meu nome é pedro gabreil mochinski
-- 👀 I’m interested in  estudar o que a prof passar
-- 💞️ I’m looking to collaborate on 
-
-<!---
-pedrogabrielmochinski/pedrogabrielmochinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ola meu nome e Pedro
+aprendi  a fazero jogo pong pelo javascript
+a como criar um repositorio no github
+a fazer um site no codepen
